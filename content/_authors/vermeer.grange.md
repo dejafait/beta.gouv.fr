@@ -8,13 +8,13 @@ missions:
     status: independent
     employer: ey / pole-emploi
   - start: 2019-09-01
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: octo
 startups:
   - les-emplois
-  - pilotage.de.linclusion
 previously:
+  - pilotage.de.linclusion
   - la-bonne-alternance
   - la-bonne-boite
 ---
